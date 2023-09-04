@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayankraj varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankraj varma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/minobic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minobic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayankraj-varma-9077b921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankraj varma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCx4f6OFsATPmO00Z0d0wlVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minobic" height="30" width="40" /></a>
 <a href="https://discord.gg/euTHcvz3KE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="euTHcvz3KE" height="30" width="40" /></a>
 </p>
 
