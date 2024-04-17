@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minobic</h1>
+<h1 align="center">Hi 👋, I'm Mayankraj Varma</h1>
 <h3 align="center">A passionate Java and frontend web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minobic&label=Profile%20views&color=0e75b6&style=flat" alt="minobic" /> </p>
