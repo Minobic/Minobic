@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [website](silentstudycafe.live, minobot.me)
 
-- 🌱 I’m currently learning **mySQL**
-
-- 💬 Ask me about **JAVA, HTML, CSS, C, JavaScript, mySql**
+- 💬 Ask me about **JAVA, HTML, CSS, C, C++, JavaScript, mySql**
 
 - 📫 How to reach me **mayank04varma@gmail.com**
 
